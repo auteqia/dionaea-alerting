@@ -1,0 +1,2 @@
+*/15 * * * * /opt/dionaea/var/log/dionaea/connection.sh
+#crontab qui effectue un test toutes les 15min
